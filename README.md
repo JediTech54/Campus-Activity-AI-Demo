@@ -58,7 +58,4 @@ CampusMatch AI is an AI‑powered campus activity discovery and matching platfor
 
 This demo visually showcases **AI empowering the campus activity ecosystem** with interpretable recommendation and review scoring logic\.
 
-要不要我帮你再做一版**极简版 Markdown**，适合用于 GitHub README 或产品卡片？
-
-> （注：文档部分内容可能由 AI 生成）
 
