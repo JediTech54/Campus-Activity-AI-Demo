@@ -1,4 +1,4 @@
-# CampusMatch AI Demo \- Description
+# Campus Match AI Demo \- Description
 
 CampusMatch AI is an AI‑powered campus activity discovery and matching platform built for university environments\. It connects students with official campus events and peer‑organized activities via intelligent recommendation, personalized ranking, and automated review, solving key pain points including scattered event information, low matching efficiency, and complex manual review management\.
 
